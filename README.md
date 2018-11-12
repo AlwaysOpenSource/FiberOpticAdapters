@@ -4,7 +4,7 @@ Ever wanted to get light from one place to another without it spilling all over 
 
 Thus, the Fiber Optic Adapter project was born.  Here is a comprehensive list of the adapters AOS has created for your use:
 
-SMA connectors:
+SMA connectors:  
 3.18mm fiber optic cable -> Cuvette  
 3.18mm fiber optic cable -> Photomultiplier  
 
