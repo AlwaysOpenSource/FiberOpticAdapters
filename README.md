@@ -1,6 +1,6 @@
 # Fiber Optic Adapters 
 
-Ever wanted to get light from one place to another? That's what fiber optic cables are for!  The Oakley lab uses these to measure bioluminescence and enzyme efficiency, but needed a way to attach the cables to cuvettes for an accurate reading.
+Ever wanted to get light from one place to another without it spilling all over the place and making a mess? That's what fiber optic cables are for!  The Oakley lab uses these to measure bioluminescence and enzyme efficiency, but needed a way to attach the cables to cuvettes for an accurate reading.
 
 Thus, the Fiber Optic Adapter project was born.  Here is a comprehensive list of the adapters AOS has created for your use:
 
